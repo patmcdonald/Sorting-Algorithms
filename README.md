@@ -10,7 +10,11 @@
 #### https://www.geeksforgeeks.org/bubble-sort/
 #### https://interactivepython.org/runestone/static/pythonds/SortSearch/TheMergeSort.html
 #### https://www.geeksforgeeks.org/bucket-sort-2/
+
 ### https://github.com/TheAlgorithms/Python/tree/master/sorts
+#### https://github.com/TheAlgorithms/Python/blob/master/sorts/radix_sort.py
+#### https://github.com/TheAlgorithms/Python/blob/master/sorts/bogosort.py
+#### https://github.com/TheAlgorithms/Python/blob/master/sorts/timsort.py
 
 
 ### Algorithms for Project:
