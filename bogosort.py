@@ -1,6 +1,10 @@
 # https://www.geeksforgeeks.org/python-program-for-bogosort-or-permutation-sort/
 
 # Sorts array a[0..n-1] using Bogo sort 
+# Python program for implementation of Bogo Sort 
+import random 
+  
+# Sorts array a[0..n-1] using Bogo sort 
 def bogoSort(a): 
     n = len(a) 
     while (is_sorted(a)== False): 
