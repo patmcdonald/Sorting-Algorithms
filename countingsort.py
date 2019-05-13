@@ -1,5 +1,3 @@
-# Code source: https://github.com/TheAlgorithms/Python/blob/master/sorts/radix_sort.py
-
 # Code source: 
 # https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-10.php
 

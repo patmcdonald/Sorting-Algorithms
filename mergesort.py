@@ -1,4 +1,4 @@
-#Code source: https://interactivepython.org/runestone/static/pythonds/SortSearch/TheMergeSort.html
+# Code source: https://interactivepython.org/runestone/static/pythonds/SortSearch/TheMergeSort.html
 
 def mergeSort(alist):
     print("Splitting ",alist)
