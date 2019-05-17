@@ -12,5 +12,7 @@
 4. Quick Sort
 5. Selection Sort
 
+#### Project Notebook URL is: https://github.com/patmcdonald/Sorting-Algorithms/blob/master/Sorting%20Algorithms%20Project.ipynb
 
 #### This project can be viewed in NBViewer at this URL: https://nbviewer.jupyter.org
+
