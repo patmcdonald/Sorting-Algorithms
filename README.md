@@ -11,3 +11,7 @@
 3. Counting Sort
 4. Quick Sort
 5. Selection Sort
+
+#### This project can be viewed in NBViewer at this URL:
+
+https://nbviewer.jupyter.org/github/patmcdonald/Sorting-Algorithms/blob/master/Sorting%20Algorithms%20Project.ipynb
